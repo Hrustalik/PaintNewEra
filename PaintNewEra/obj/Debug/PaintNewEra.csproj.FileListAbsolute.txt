@@ -1,0 +1,54 @@
+I:\temp\projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe.config
+I:\temp\projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe
+I:\temp\projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.pdb
+I:\temp\projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csprojResolveAssemblyReference.cache
+I:\temp\projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.Properties.Resources.resources
+I:\temp\projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csproj.GenerateResource.Cache
+I:\temp\projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.exe
+I:\temp\projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.pdb
+I:\temp\projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.MainForm.resources
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe.config
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.exe
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.pdb
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csprojResolveAssemblyReference.cache
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.MainForm.resources
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.Properties.Resources.resources
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csproj.GenerateResource.Cache
+C:\temptemp\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe.config
+C:\temptemp\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.exe
+C:\temptemp\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.pdb
+C:\temptemp\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe
+C:\temptemp\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.pdb
+C:\temptemp\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csprojResolveAssemblyReference.cache
+C:\temptemp\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.MainForm.resources
+C:\temptemp\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.Properties.Resources.resources
+C:\temptemp\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csproj.GenerateResource.Cache
+H:\CS Projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe.config
+H:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.exe
+H:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.pdb
+H:\CS Projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe
+H:\CS Projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.pdb
+H:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csprojResolveAssemblyReference.cache
+H:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.MainForm.resources
+H:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.Properties.Resources.resources
+H:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csproj.GenerateResource.Cache
+G:\CS Projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe.config
+G:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.exe
+G:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.pdb
+G:\CS Projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe
+G:\CS Projects\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.pdb
+G:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csprojResolveAssemblyReference.cache
+G:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.MainForm.resources
+G:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.Properties.Resources.resources
+G:\CS Projects\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csproj.GenerateResource.Cache
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe.config
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.exe
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.pdb
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csprojResolveAssemblyReference.cache
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.MainForm.resources
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.Properties.Resources.resources
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\obj\Debug\PaintNewEra.csproj.GenerateResource.Cache
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe
+C:\temptemp\PaintNewEra\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.pdb
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.exe
+H:\CS Projects\PaintNewEra\PaintNewEra\PaintNewEra\bin\Debug\PaintNewEra.pdb
